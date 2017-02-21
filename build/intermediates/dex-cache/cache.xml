@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classese0da8cb22bd97e868b5758a105bcaa5a.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classese0da8cb22bd97e868b5758a105bcaa5a_a9807b5a89cf70df843c27dcee88cfeb660259a2.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/internal_impl-24.2.1ba437b40f4ce3e68a95f38a2eb01fdab.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1ba437b40f4ce3e68a95f38a2eb01fdab_82c67c7b110340343c20216dc178a1ccc951df91.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/internal_impl-24.2.101c99a20c099ebda712444f3fbe38418.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.101c99a20c099ebda712444f3fbe38418_ecaaf9e84cd606a3e049491a9b9a7ebfd583676e.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/internal_impl-24.2.12cfbd2b0d80a2842953b2a0a19f60458.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.12cfbd2b0d80a2842953b2a0a19f60458_e4321f0d9740be25e59bb01b339ac341a0d472e2.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classeseb2c0eeb2c60b5b39e2a2e16a9d4802a.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classeseb2c0eeb2c60b5b39e2a2e16a9d4802a_ea29a5050b639a93d02f7212f1482447e0a41bb1.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/4/classes1acc04b33ea94e7f6fed593e8cfc5b2a.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="dea43b191a7fe33a40cbd53895102bb40176a1df">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classes1acc04b33ea94e7f6fed593e8cfc5b2a_c9cd7d8baac9fa1d421fbea67c85e5b27a509da6.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classes52cb45920e3727b9434e8798bc4c34cb.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classes52cb45920e3727b9434e8798bc4c34cb_c87e78ca204c2e11309f4a00416426fa965adb77.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classesce5c4a5b970103e41c7d71406a14b2a3.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classesce5c4a5b970103e41c7d71406a14b2a3_f452e84ae6f8812010bff747462b49fa2b72b122.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classesd18bb9e10bbd04eee778569ff9e8123c.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classesd18bb9e10bbd04eee778569ff9e8123c_1d0f544808656d7d26b829549b0ec2a4a6d8c9be.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/internal_impl-24.2.1990bead40a6fcf1076549a1a9b20ba0d.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1990bead40a6fcf1076549a1a9b20ba0d_41ec29623010a5faed752e513a98b5d5777839c9.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/support-annotations-24.2.12bdce6c8c5f0580131e940fce50a84f0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.12bdce6c8c5f0580131e940fce50a84f0_1088f5fd4eee4677905d120c0c9d4b0cf700410e.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classes875920b9aa2bf8d636435f217fe44230.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classes875920b9aa2bf8d636435f217fe44230_fe27400bb48e836c88a75a2da8a01d55373b7dc1.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/internal_impl-24.2.1195ee74418fd96f3d264cb9a82fde787.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1195ee74418fd96f3d264cb9a82fde787_8089beff8681b1d920cb4235abd1f475b7e2484f.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classesa5beda215e7624586b088ade3d5482ce.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classesa5beda215e7624586b088ade3d5482ce_715922a0429880e7b1ea7185b7f1fbd00367139b.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classes44b7ed98348e41ae0f6fb5c8d91f2864.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classes44b7ed98348e41ae0f6fb5c8d91f2864_4f170e3a3d871fa96a11f9e565c32dff3442a3e4.jar" />
+    </item>
+    <item
+        jar="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/transforms/preDex/debug/jars/1/10/classes90afc91b000483f9362f87536791401c.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/liyazhou/学习/Android/project/hotfix/hotpatch_tinker/app/build/intermediates/pre-dexed/debug/classes90afc91b000483f9362f87536791401c_93aff236952708004a73fc04de64c27bf4a21e46.jar" />
+    </item>
+
+</items>

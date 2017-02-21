@@ -1,0 +1,1 @@
+This project is an implementation of Hotfix solution proprosed by Q-Zone. For more details, please refer to my Blogs:[Android热修复技术——QQ空间补丁方案解析](https://yq.aliyun.com/articles/70320?spm=5176.100239.blogcont70321.17.CjiJTQ)
